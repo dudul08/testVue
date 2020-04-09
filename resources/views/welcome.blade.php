@@ -11,9 +11,9 @@
 
 <body>
 <div id="app">
-    <div class="container mt-5">
-        <example-component></example-component>
-    </div>
+
+        <formulaire></formulaire>
+
 
 
 
